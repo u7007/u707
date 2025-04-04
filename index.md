@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>油漆／噴漆</title>
+    <title>高雄油漆／噴漆</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
         .container { max-width: 600px; margin: auto; }
@@ -16,7 +16,7 @@
     <div class="container">
         <h2>高雄油漆0915189498</h2>
         <select id="techSelect">
-            <option value="">-- 選擇技術 --</option>
+            <option value="">-- 室內外油漆粉刷專業服務 --</option>
             <option value="html">HTML</option>
             <option value="css">CSS</option>
             <option value="js">JavaScript</option>
